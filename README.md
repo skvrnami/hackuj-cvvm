@@ -11,6 +11,7 @@ Postup:
     * spusit skript `convert_to_csv.R` 
     * výstup jsou dva soubory - `output/questions.csv` (obsahující kód otázky a název otázky, pokud má otázka víc různých popisů napříč soubory, vezme se pouze první název) a 
     `output/surveys.csv` (obsahující všechny soubory spojené do jednoho)
+    * `topic_one.R` je příklad použití dat - vývoj zmiňování migrace jako nejzávažnějšího společenského tématu
     
 2. ?
 

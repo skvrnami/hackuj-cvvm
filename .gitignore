@@ -1,7 +1,6 @@
 *.csv
 *.sav
 
-topic_one.R
 *.Rproj
 *.Rhistory
 .Rproj.user/
